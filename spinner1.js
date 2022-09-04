@@ -1,3 +1,4 @@
+// spinner1.js
 setTimeout(() => { 
   process.stdout.write('\r|     ');
 }, 100);
